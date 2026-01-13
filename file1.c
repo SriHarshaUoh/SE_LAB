@@ -4,4 +4,6 @@ int main(){
     int a= 5;
     int b=17;
     printf("%d",a+b);
+
+    printf("SIDD IS SHOWING ME GIT");
 }
